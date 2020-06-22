@@ -35,5 +35,5 @@ collections:
             widget: "object"
             fields:
               - { label: "Street", name: "street", widget: "string" }
-              - { label: "Street2", name: "street", widget: "string" }
+              - { label: "Street2", name: "street2", widget: "string" }
               - { label: "City", name: "city", widget: "string" }
