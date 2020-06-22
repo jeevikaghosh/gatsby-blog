@@ -37,4 +37,4 @@ collections:
             fields:
               - { label: "Street", name: "street", widget: "string" }
               - { label: "Street2", name: "street", widget: "string" }
-              - { label: "City", name: "ciyt", widget: "string" }
+              - { label: "City", name: "city", widget: "string" }
